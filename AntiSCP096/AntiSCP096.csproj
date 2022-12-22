@@ -316,6 +316,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Anti.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
